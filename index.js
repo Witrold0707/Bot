@@ -106,4 +106,4 @@ bot.on("message", message => {
 
 bot.once('ready', () => { bot.user.setActivity(';help', { type: "WATCHING" }); });
 
-bot.login("ODE5NjUyMzI2NzEyNDEwMTEy.YEputw.N4NkamdCsc9nT7BE94-l6LuVs7I");
+bot.login("");
